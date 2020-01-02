@@ -1,0 +1,7 @@
+.hatena-module-search-box .hatena-module-title:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f002";/* アイコンフォント */
+  font-weight: 900;
+  position: absolute;
+  left : 0.5em; 
+}
